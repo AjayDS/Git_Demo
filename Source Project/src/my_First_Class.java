@@ -8,6 +8,8 @@ public class my_First_Class {
 		// TODO Auto-generated method stub
 				
 		System.out.print("welcome to Devops");
+		System.out.print("welcome to Devops");
+		System.out.print("welcome to Devops");
 	}
 
 }
