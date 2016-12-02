@@ -9,7 +9,7 @@ public class my_First_Class {
 				
 		System.out.print("welcome to Devops");
 		System.out.print("welcome to Devops");
-		System.out.print("welcome to Devops");
+	
 	}
 
 }
