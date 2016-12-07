@@ -1,6 +1,6 @@
 
 public class SampleClassforMigration {
 	static{	
-		System.out.println("Dev copy Class");
+		System.out.println("Master copy Class");
 	}
 }
